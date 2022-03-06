@@ -1,0 +1,7 @@
+https://github.com/simminda/mini_chase_game
+
+The link above is for my favorite project. Originally done in the Hyperion Development
+Software Engineering bootcamp the task was to use Python to create a mini "avoid-the-obstacles"
+game. I was able to add my own spin on this game over and above the Task requirements.
+Custom backgrounds, Win/Lose Screens and royalty free theme music makes this a very
+memorable project for me and an exciting glimpse into the potential of future projects
